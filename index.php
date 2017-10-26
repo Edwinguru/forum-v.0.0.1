@@ -8,33 +8,39 @@ if (empty($_SESSION['name'])) {
 
 <style>
 
-	b {
-font-family:Helvetica;
-   font-size:30px;
-   font-style:normal;
-   font-weight:normal;
 
-
-	}
-	p {
+	h2 {
+		color: gray;
 		font-family:Helvetica;
-   font-size:22px;
-   font-style:normal;
-   font-weight:normal;
-	}
-	h1 {
-		font-family:Helvetica;
-   font-size:22px;
-   font-style:normal;
-   font-weight:normal;
-	}
-	h3 {
-		font-family:Helvetica;
-   font-size:15px;
+   font-size:20px;
    font-style:normal;
    font-weight:normal;
 	}
 	h2 {
+		color: gray;
+		font-family:Helvetica;
+   font-size:20px;
+   font-style:normal;
+   font-weight:normal;
+	}h2 {
+		color: gray;
+		font-family:Helvetica;
+   font-size:20px;
+   font-style:normal;
+   font-weight:normal;
+	}h2 {
+		color: gray;
+		font-family:Helvetica;
+   font-size:20px;
+   font-style:normal;
+   font-weight:normal;
+	}h2 {
+		color: gray;
+		font-family:Helvetica;
+   font-size:20px;
+   font-style:normal;
+   font-weight:normal;
+	}h2 {
 		color: gray;
 		font-family:Helvetica;
    font-size:20px;
